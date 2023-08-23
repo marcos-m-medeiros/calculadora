@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Inria+Sans:wght@300;400;700&display=swap');
+
+body {
+    background: linear-gradient(to bottom, #F59C24, #FF7077);
+    font-family: 'Inria Sans', sans-serif;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+h1 {
+    text-align: center;
+    color: #EBEBEB;
+    font-weight: bold;
+    font-size: 80px;
+}
+
+p#resultado {
+    font-size: 60px;
+    color: #1D2C38;
+    font-weight: lighter;
+    text-align: right;
+    margin: 0%;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+p#valores {
+    font-size: 15px;
+    color: #87898b;
+    text-align: right;
+    margin: 0%;
+    padding-bottom: 20px;
+}
+
+div#box1 {
+    width: 230px;
+    height: 475px;
+    background-color: #EBEBEB;
+    border-radius: 20px;
+    text-align: justify;
+    padding: 9px;
+    content: 1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(to bottom, #d4d4d4, #EBEBEB);
+    box-shadow: 2px 2px 6px rgb(0, 0, 0, 0.4);
+}
+
+div#box2 {
+    grid-column: span 4;
+    text-align: center;
+}
+
+div#box2 button {
+    margin: 5px;
+    padding: 0%;
+    text-align: center;
+    background-color: #EFEDEE;
+    color: #A8A8A8;
+    border: none;
+    cursor: pointer;
+    box-shadow: 2px 2px 6px rgb(0, 0, 0, 0.2);
+    border-radius: 6px;
+    height: 45px;
+    width: 19%;
+    transition: background-color 0.3s ease;
+}
+
+div#box2 button:hover {
+    background-color: #d4d4d4;
+    color: white;
+    transform: scale(0.95);
+}
+
+div#box2 button#resultButton {
+    width: 45%;
+    height: 43px;
+    background-color: #EC802E;
+    color: white;
+    font-weight: bold;
+}
+
+div#box2 button#resultButton:hover {
+    background-color: #db7628;
+    color: white;
+    transform: scale(0.95);
+}
+
+div#box2 button#del {
+    font-weight: bold;
+}
+
+div#box2 button#ac {
+    font-weight: bold;
+}
+
+footer {
+    color: #fff;
+    font-weight: lighter;
+    text-align: center;
+    position: fixed;
+    padding: 10px;
+    bottom: 0;
+}
