@@ -10,34 +10,41 @@
 </head>
 
 <body>
-    <header><h1>Calculadora</h1></header>
+    <header>
+        <h1>Calculadora</h1>
+    </header>
+    <div id="historico"></div>
     <div id="box1">
-        <p id="resultado">5768</p>
-        <p id="valores">50000+300+468</p>
+        <div id="visor">
+            <p id="display">0</p>
+            <p id="previousDisplay">0</p>
+        </div>
         <div id="box2">
-            <button id="ac">AC</button>
-            <button id="del">DEL</button>
-            <button>%</button>
-            <button>/</button> <br>
-            <button>7</button>
-            <button>8</button>
-            <button>9</button>
-            <button>x</button> <br>
-            <button>4</button>
-            <button>5</button>
-            <button>6</button>
-            <button>-</button> <br>
-            <button>1</button>
-            <button>2</button>
-            <button>3</button>
-            <button>+</button> <br>
-            <button>0</button>
-            <button><strong>.</strong></button>
-            <button id="resultButton">=</button>
+            <button onclick="ac()">AC</button>
+            <button onclick="del()">DEL</button>
+            <button onclick="adicionarNumero('%')">%</button>
+            <button onclick="adicionarNumero('/')">/</button>
+            <button onclick="adicionarNumero(7)">7</button>
+            <button onclick="adicionarNumero(8)">8</button>
+            <button onclick="adicionarNumero(9)">9</button>
+            <button onclick="adicionarNumero('*')">x</button>
+            <button onclick="adicionarNumero(4)">4</button>
+            <button onclick="adicionarNumero(5)">5</button>
+            <button onclick="adicionarNumero(6)">6</button>
+            <button onclick="adicionarNumero('-')">-</button>
+            <button onclick="adicionarNumero(1)">1</button>
+            <button onclick="adicionarNumero(2)">2</button>
+            <button onclick="adicionarNumero(3)">3</button>
+            <button onclick="adicionarNumero('+')">+</button>
+            <button onclick="adicionarNumero(0)">0</button>
+            <button onclick="adicionarNumero('.')"><strong>.</strong></button>
+            <button id="resultButton" onclick="calcular()">=</button>
         </div>
     </div>
     <footer>
-        <p>Calculadora Interativa Web desenvolvida com HTML, CSS e JavaScript. Esta calculadora oferece uma interface intuitiva com botões e operadores para realizar operações matemáticas básicas. O resultado é exibido em um visor amigável. Um projeto simples e educacional para praticar desenvolvimento front-end e back-end.</p>
+        <p>Calculadora Interativa Web desenvolvida com HTML, CSS e JavaScript. Esta calculadora oferece uma interface
+            intuitiva com botões e operadores para realizar operações matemáticas básicas. O resultado é exibido em um
+            visor amigável. Um projeto simples e educacional para praticar desenvolvimento front-end e back-end.</p>
     </footer>
 </body>
 

@@ -14,7 +14,7 @@ h1 {
     font-size: 80px;
 }
 
-p#resultado {
+p#display {
     font-size: 60px;
     color: #1D2C38;
     font-weight: lighter;
@@ -24,7 +24,7 @@ p#resultado {
     padding-bottom: 10px;
 }
 
-p#valores {
+p#previousDisplay {
     font-size: 15px;
     color: #87898b;
     text-align: right;
