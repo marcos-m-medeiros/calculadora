@@ -4,7 +4,7 @@ A Calculadora de Operações Matemáticas é um projeto desenvolvido em HTML, CS
 
 ### Recursos e Funcionalidades:
 
-Interface Intuitiva: A aplicação apresenta uma interface limpa e intuitiva, projetada para ser acessível a todos os tipos de usuários, independentemente do nível de familiaridade com tecnologia.
+**Interface Intuitiva:** A aplicação apresenta uma interface limpa e intuitiva, projetada para ser acessível a todos os tipos de usuários, independentemente do nível de familiaridade com tecnologia.
 
 **Operações Básicas:** Os usuários podem realizar operações matemáticas fundamentais, incluindo adição, subtração, multiplicação e divisão.
 
