@@ -18,8 +18,6 @@ A Calculadora de Operações Matemáticas é um projeto desenvolvido em HTML, CS
 
 **Estilo Personalizado:** O design da calculadora é implementado com CSS para fornecer uma estética agradável e coerente.
 
-**Responsividade:** A aplicação é responsiva, garantindo uma experiência de uso perfeita em uma variedade de dispositivos, desde smartphones até desktops.
-
 **Código Fonte Aberto:** O projeto é hospedado no GitHub, o que permite que outros desenvolvedores examinem o código, contribuam com melhorias e aprendam com ele.
 
 ### Tecnologias Utilizadas:
