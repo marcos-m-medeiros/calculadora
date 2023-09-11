@@ -1,34 +1,34 @@
-# Calculadora de Operações Matemáticas
+# Mathematical Operations Calculator
 
-A Calculadora de Operações Matemáticas é um projeto desenvolvido em HTML, CSS e JavaScript que visa fornecer uma ferramenta simples e funcional para realizar operações matemáticas básicas.
+The Mathematical Operations Calculator is a project developed in HTML, CSS and JavaScript that aims to provide a simple and functional tool to perform basic mathematical operations.
 
-### Recursos e Funcionalidades:
+### Features and Functionality:
 
-**Interface Intuitiva:** A aplicação apresenta uma interface limpa e intuitiva, projetada para ser acessível a todos os tipos de usuários, independentemente do nível de familiaridade com tecnologia.
+**Intuitive Interface:** The application features a clean and intuitive interface, designed to be accessible to all types of users, regardless of their level of familiarity with technology.
 
-**Operações Básicas:** Os usuários podem realizar operações matemáticas fundamentais, incluindo adição, subtração, multiplicação e divisão.
+**Basic Operations:** Users can perform fundamental mathematical operations including addition, subtraction, multiplication and division.
 
-**Entrada de Dados:** A calculadora permite que os usuários insiram os números para as operações através de botões de números.
+**Data Entry:** The calculator allows users to input numbers for operations via number buttons.
 
-**Botão de Igual:** Um botão de "igual" permite que os usuários executem a operação e obtenham o resultado imediatamente.
+**Equals Button:** An "equals" button allows users to perform the operation and get the result immediately.
 
-**Botão de Limpar:** Um botão de "limpar" oferece aos usuários a capacidade de redefinir a entrada e começar uma nova operação.
+**Clear Button:** A "clear" button gives users the ability to reset the entry and begin a new operation.
 
-**Botão de Apagar o Último Dígito:** Um botão de "DEL" permite que o usuário remova a última entrada do dígito sem ter que redefinir a entrada.
+**Delete Last Digit Button:** A "DEL" button allows the user to remove the last digit entry without having to reset the entry.
 
-**Estilo Personalizado:** O design da calculadora é implementado com CSS para fornecer uma estética agradável e coerente.
+**Custom Style:** The calculator design is implemented with CSS to provide a pleasing and coherent aesthetic.
 
-**Código Fonte Aberto:** O projeto é hospedado no GitHub, o que permite que outros desenvolvedores examinem o código, contribuam com melhorias e aprendam com ele.
+**Open Source Code:** The project is hosted on GitHub, which allows other developers to examine the code, contribute improvements, and learn from it.
 
-### Tecnologias Utilizadas:
+### Technologies Used:
 
-* HTML: Estruturação dos elementos da calculadora e criação de botões.
-* CSS: Estilização da interface para uma aparência visualmente agradável.
-* JavaScript: Implementação da lógica para realizar operações matemáticas e atualizar a interface em tempo real.
-Objetivos:
+* **HTML:** Structuring calculator elements and creating buttons.
+* **CSS:** Interface styling for a visually pleasing appearance.
+* **JavaScript:** Implementation of logic to perform mathematical operations and update the interface in real time.
+Goals:
 
-O objetivo principal da Calculadora de Operações Matemáticas é fornecer uma ferramenta confiável e acessível para realizar cálculos matemáticos básicos. Além disso, o projeto serve como uma oportunidade para praticar habilidades em desenvolvimento web utilizando HTML, CSS e JavaScript, ao mesmo tempo em que oferece aos usuários uma ferramenta útil no seu dia a dia.
+The main purpose of Mathematical Operations Calculator is to provide a reliable and affordable tool for performing basic mathematical calculations. Furthermore, the project serves as an opportunity to practice web development skills using HTML, CSS and JavaScript, while offering users a useful tool in their daily lives.
 
-### Contribuições:
+### Contributions:
 
-Se você tiver sugestões para melhorar a interface, adicionar funcionalidades ou aprimorar o código, sinta-se à vontade para enviar um pull request no repositório do GitHub. Juntos, podemos criar uma calculadora ainda mais versátil e eficaz.
+If you have suggestions to improve the interface, add functionality, or improve the code, feel free to submit a pull request in the GitHub repository. Together, we can create an even more versatile and effective calculator.
